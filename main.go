@@ -15,8 +15,8 @@ var count uint64
 var errors uint64
 
 var urls = [50]string{
-"https://example.com/",
-"https://example.com/"}
+"http://85.10.195.175//",
+"http://85.10.195.175//"}
 
 func main() {
 	cpus := runtime.NumCPU()
